@@ -2,7 +2,7 @@
 // This file is ONLY responsible for talking to the backend
 // No UI logic, no fake processing, no frontend image manipulation
 
-const API_URL = "https://zeroreuse-backend-1.onrender.com"; 
+const API_URL = "https://zeroreuse-backend-2.onrender.com"; 
 // ↑ replace with your actual Render backend URL
 // example: https://zeroreuse-backend.onrender.com
 
