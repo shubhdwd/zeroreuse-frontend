@@ -42,7 +42,7 @@ export async function processImageWithAI(
   formData.append("image", imageFile);
   formData.append("prompt", prompt);
 
-  const res = await fetch("https://zeroreuse-backend-1.onrender.com", {
+  const res = await fetch("https://zeroreuse-backend-2.onrender.com", {
     method: "POST",
     body: formData
   });
